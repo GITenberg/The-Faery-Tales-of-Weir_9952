@@ -1,0 +1,25 @@
+_repo: The-Faery-Tales-of-Weir_9952
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Sholl, Anna McClure
+    gutenberg_agent_id: '3217'
+    url: http://www.gutenberg.org/2009/agents/3217
+description: ''
+gutenberg_issued: '2006-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '9952'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fairy tales'
+- !lcc 'PZ'
+- GITenberg
+tableOfContents: The faery tales of weir -- The tale of the blue glove -- The invisible
+  wall -- The tree in the dark wood -- The cat that winked -- The magic tears -- The
+  golden archer.
+title: The Faery Tales of Weir
+url: http://www.gutenberg.org/ebooks/9952
